@@ -1,5 +1,3 @@
-from random import *
-
 def grille_exemple():
   for i in range(9):  # 9 lignes
     ligne = ""
